@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Globlehi Food</string>
+    <string name="navigation_drawer_open">Ouvrir navigation</string>
+    <string name="navigation_drawer_close">Fermer navigation</string>
+    <string name="nav_header_title">Globlehi Food</string>
+    <string name="nav_header_subtitle">philemon.globlehi@food.com</string>
+    <string name="nav_header_desc">Entête navigation</string>
+    <string name="action_settings">Paramètres</string>
+</resources>
